@@ -17,7 +17,7 @@
 - **Python**: 3.12.3
 - **PyTorch**: 2.9.1
 - **ROCm**: 7.1.1
-- **ComfyUI**: v0.14.2 
+- **ComfyUI**: v0.18.1 
 
 ## ✨ Key Features
 
