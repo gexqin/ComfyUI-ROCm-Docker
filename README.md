@@ -4,7 +4,7 @@
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/corundex/comfyui-rocm)](https://hub.docker.com/r/corundex/comfyui-rocm) [![ROCm](https://img.shields.io/badge/ROCm-7.1+-green)](https://rocm.docs.amd.com/) [![AMD GPU](https://img.shields.io/badge/AMD-AIMAX+%20395-red)](https://www.amd.com/en/products/graphics/desktops/radeon.html)
 
-🔥🔥🔥 **Warning: please pay 100% attention** - Do not update to Rocm 7.2 it not work for AI MAX series CPU on ComfyUI yet.🔥🔥🔥
+🔥🔥🔥Please ensure that the ROCm version on the host machine is consistent with the ROCm version in this image.🔥🔥🔥
 
 🔥🔥🔥 Any questions can be raised here https://github.com/gexqin/ComfyUI-ROCm/issues  replies irregularly depending on mood🔥🔥🔥
 
