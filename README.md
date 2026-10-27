@@ -13,7 +13,7 @@ This image provides a ready-to-use ComfyUI environment for AMD GPUs, based on th
 | ROCm | 10.1.0 |
 | PyTorch | 2.14.0 |
 | Python | 3.14 |
-| ComfyUI | 0.42.1 |
+| ComfyUI | 0.43.0 |
 | Container OS | Ubuntu 26.04 |
 
 ---
