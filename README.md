@@ -17,6 +17,7 @@ This image provides a ready-to-use ComfyUI environment for AMD GPUs, based on th
 | Container OS | Ubuntu 26.04 |
 
 ---
+![ComfyUI Interface](screenshot.png)
 
 ## 🖥️ Tested Hardware
 
