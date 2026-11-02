@@ -14,7 +14,7 @@ This image provides a ready-to-use ComfyUI environment for AMD GPUs, based on th
 | PyTorch | 2.14.0 |
 | Python | 3.14 |
 | ComfyUI | 0.43.0 |
-| Container OS | Ubuntu 26.04 |
+| Host OS | Ubuntu 26.04 |
 
 ---
 ![ComfyUI Interface](screenshot.png)
